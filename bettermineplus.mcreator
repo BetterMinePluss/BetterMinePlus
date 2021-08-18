@@ -63,6 +63,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "test"
+    },
+    {
+      "name": "Ii",
+      "type": "overlay",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ii"
     }
   ],
   "variable_elements": [],
