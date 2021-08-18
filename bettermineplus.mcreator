@@ -1,0 +1,91 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SolMort",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sol_mort"
+    },
+    {
+      "name": "SousSolMort",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sous_sol_mort"
+    },
+    {
+      "name": "Branche",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "branche"
+    },
+    {
+      "name": "AbimeDesMorts",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "abime_des_morts"
+    },
+    {
+      "name": "DirtBlocks",
+      "type": "tag",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_blocks"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_blocks"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "biome.bettermineplus.abime_des_morts": "Abime Des Morts",
+      "block.bettermineplus.sol_mort": "Sol Mort",
+      "block.bettermineplus.sous_sol_mort": "Sous Sol Mort",
+      "block.bettermineplus.branche": "Branche"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "bettermineplus",
+    "modName": "betterMinePlus",
+    "version": "1.0.0",
+    "author": "antoi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.bettermineplus",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

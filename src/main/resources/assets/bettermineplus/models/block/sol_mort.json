@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bettermineplus:blocks/soldimentionabimedesmorts",
+    "up": "bettermineplus:blocks/soldimentionabimedesmorts",
+    "north": "bettermineplus:blocks/soldimentionabimedesmorts",
+    "east": "bettermineplus:blocks/soldimentionabimedesmorts",
+    "south": "bettermineplus:blocks/soldimentionabimedesmorts",
+    "west": "bettermineplus:blocks/soldimentionabimedesmorts",
+    "particle": "bettermineplus:blocks/soldimentionabimedesmorts"
+  }
+}

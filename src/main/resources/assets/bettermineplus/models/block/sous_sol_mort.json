@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bettermineplus:blocks/dimentionsoussol",
+    "up": "bettermineplus:blocks/dimentionsoussol",
+    "north": "bettermineplus:blocks/dimentionsoussol",
+    "east": "bettermineplus:blocks/dimentionsoussol",
+    "south": "bettermineplus:blocks/dimentionsoussol",
+    "west": "bettermineplus:blocks/dimentionsoussol",
+    "particle": "bettermineplus:blocks/dimentionsoussol"
+  }
+}
